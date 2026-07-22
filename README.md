@@ -135,16 +135,22 @@ The dashboard provides quick access to important HR metrics including:
 # Dashboard Preview
 
 ## Executive Dashboard
+<img width="671" height="382" alt="818e6675-9c05-4a08-93c3-6417e7a3e563" src="https://github.com/user-attachments/assets/970c9e08-1fa2-495c-892f-30af2bc29aac" />
 
-(Add Screenshot 1 here)
+
 
 ## Training Analytics Dashboard
 
-(Add Screenshot 2 here)
+<img width="664" height="381" alt="2121b897-6711-44d9-92b1-f952249a13c0" src="https://github.com/user-attachments/assets/b1215ad5-d23b-4574-8377-fc902b01a0f4" />
+
+
 
 ## Employee Engagement Dashboard
 
-(Add Screenshot 3 here)
+<img width="660" height="383" alt="af0764e7-9258-4b99-916c-82a4b24cbb2a" src="https://github.com/user-attachments/assets/46207dfa-ab4d-450e-810f-a06735e6fb8f" />
+
+
+
 
 ---
 
@@ -245,4 +251,4 @@ Aspiring Data Analyst with a passion for transforming raw data into meaningful i
 **Connect with me**
 
 - GitHub: https://github.com/YourUsername
-- LinkedIn: (Add your LinkedIn profile)
+- LinkedIn: https://www.linkedin.com/in/victor-okoh-12a06b224?utm_source=share_via&utm_content=profile&utm_medium=member_ios
